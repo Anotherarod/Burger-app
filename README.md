@@ -30,4 +30,4 @@ MySQL / JawsDB
 
 Below I have a screenshot of the landing page:
 
-![]("../assets/Images/Landingpageimg.png)
+![]("/..public/assets/Images/Landingpageimg.png)
