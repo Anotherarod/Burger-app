@@ -7,7 +7,7 @@ A burger devouring app using the MVC(Model View Controller) structural format.
 
 Functionality:
 
-Once a user reached the landing page, they are able to input(add a burger) of their preference that will be populated under the "Uneaten Burgers" column. 
+Once a user reaches the landing page, they are able to input(add a burger) of their preference that will be populated under the "Uneaten Burgers" column. 
 Next to their burger they will have a button click option to eat that burger.
 
 Once clicked, the burger that they just ate is moved over to the right as an eaten(devoured) burgers.
@@ -30,4 +30,4 @@ MySQL / JawsDB
 
 Below I have a screenshot of the landing page:
 
-![]("./assets/Images/Landingpageimg.png)
+![]("../assets/Images/Landingpageimg.png)
